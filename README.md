@@ -36,4 +36,4 @@ Other Benefits:
 7. Increases customer engagement with Walmart.
 8. Build Analytics of your scan.
 
-![alt text](https://raw.githubusercontent.com/sandip-fullstack/ScanAndBuy/master/asset/images/fullscreen.jpg)
+![alt text](https://github.com/sandip-fullstack/ScanAndBuy/blob/master/assets/images/fullscreen.jpg)
